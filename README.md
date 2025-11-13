@@ -1,2 +1,6 @@
-# CougarAI_Workshops
-The workshops I created and taught for CougarAI (Club) at the University of Houston
+# CougarAI Workshops
+This repository is dedicated to documenting my workshops and improving accessibility of AI and Data Sceince to beginners. The repository goes over both technical and theoretical aspects of AI and Data Science. 
+
+## Topics:
+* Scientific Computing Libraries
+* Computer Vision
