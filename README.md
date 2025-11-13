@@ -4,3 +4,13 @@ This repository is dedicated to documenting my workshops and improving accessibi
 ## Topics:
 * Scientific Computing Libraries
 * Computer Vision
+* Model Training
+
+## 🚧UNDER CONSTRUCTION🚧
+* Supervised Learning
+* Unsupervised Learning
+* Data Visualization libraries
+* Data Manipulation libraries
+* Reiforcement Learning
+
+
